@@ -9,8 +9,8 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/YAIxPOZAlabs/Generation.git">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAIxPOZAlabs&repo=Generation&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=50,B993D6,8CA6DB&" alt="YAIxPOZAlabs/Generation" />
+<a href="https://github.com/YAIxPOZAlabs/Improving-TrXL-for-ComMU.git">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAIxPOZAlabs&repo=Improving-TrXL-for-ComMU&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=50,B993D6,8CA6DB&" alt="YAIxPOZAlabs/Improving-TrXL-for-ComMU" />
 </a>
 </p>
 
